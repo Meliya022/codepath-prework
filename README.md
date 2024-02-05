@@ -27,7 +27,7 @@
 
 ###### Presentational resources and network of local resources will be displayed
 
-![Model]([Paste_link_here](https://github.com/Meliya022/codepath-prework/blob/main/body.png)https://github.com/Meliya022/codepath-prework/blob/main/body.png)
+![Model](https://github.com/Meliya022/codepath-prework/blob/main/body.png)https://github.com/Meliya022/codepath-prework/blob/main/body.png)
 
 
 
