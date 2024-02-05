@@ -18,12 +18,11 @@
 
 ###### Creating awareness and working with locals to provide resources
 
-
 #### Who is your intended user? (30+ words)
 
 ###### Sub-Saharan Africa residens
 
-###### How will your user interact with your website? (30+ words)
+#### How will your user interact with your website? (30+ words)
 
 ###### Presentational resources and network of local resources will be displayed
 
